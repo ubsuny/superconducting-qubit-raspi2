@@ -10,7 +10,7 @@ Follow the below instructions to understand and implement the code.
 
 https://www.youtube.com/watch?v=eE1u1Pll4Ag&ab_channel=akashpatel
 
-### Referances
+### References
 
 [1]. Goppl, M., A. Fragner, M. Baur, R. Bianchetti, S. Filipp, J. M. Fink, P. J. Leek, G. Puebla, L. Stefen, and A. Wallraff, 2008, J. Appl. Phys. 104(6), 113904, URL http://dx.doi.org/10.1063/1.3010859.
 

@@ -6,6 +6,9 @@ Follow the below instructions to understand and implement the code.
 * To Implement the Jaynes-Cumming model and under stand the dynamics use the file named **Jaynes_cummings_model.ipynb**. Here you will see how the coupled resonator and Transmon qubit give arise the vacuum Rabi oscillation. also what happens if the frequency of resonator $\omega_c$ and transmon qubit $\omega_a$ is not same. which means they are detuned, in such cases what changes with the oscillation. Solving Jaynes cummig model using qutip modul has been done. so you can compare both the implementation.
 * The most tricky part which hasn't been implemented yet is Quantum Monte-Carlo wave function method(QMCWF) to solve for the system-reservoir problem. It has been discussed in **superconducting_qubit.md**.
 
+### YouTube video to explain this project : 
+
+https://www.youtube.com/watch?v=eE1u1Pll4Ag&ab_channel=akashpatel
 
 ### Referances
 

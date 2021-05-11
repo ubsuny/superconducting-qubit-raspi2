@@ -16,3 +16,11 @@ def adagger(n):
         returns the creation operator for maximum n photons
     '''
     return a(n).conj().T
+
+
+
+def plotFlipFlopPopulation(t, rho_ff):
+    
+    for state in np.arange(rho_ff.shape[1]):
+            k = plot(t, rho_ff[:, state, state], label= state)
+    return k

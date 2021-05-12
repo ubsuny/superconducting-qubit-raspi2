@@ -188,6 +188,10 @@ I have run over three different scenarios. fisrt is for spontaneous emission wit
 
 for the first case I have shown the comparison below, 
 
+![](images/compare.jpg)
+
+Here as you can see the both implementation gives nearly same answer. My code gives the $\gamma = 1.929$ while qutip gives $\gamma = 2.013$, both are close to theoretical value $\gamma = 2$. other results we can see in the notebook files.
+
 
 
 

@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://192.168.0.2:8888/
+HostUrl=http://192.168.0.2:8888/

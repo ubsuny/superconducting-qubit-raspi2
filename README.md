@@ -1,4 +1,6 @@
-**Look into transmon branch for code and documentation**
+# Look into transmon branch for code and documentation
+
+
 
 ## Transmon qubit coupled with resonator and it's dynamics
 

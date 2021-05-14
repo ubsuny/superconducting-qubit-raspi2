@@ -219,5 +219,4 @@ Here as you can see the both implementation gives nearly same answer. My code gi
 [6]. Gleyzes, S., et al., Nature 446, 297 (2007)
 
 [7]. Deutsch, I., lecture on quantum trajectories, retrieved from \url{http://info.phys.unm.edu/~ideutsch/Classes/Phys566F10/Lectures/Lecture22.pdf}
-
-[8]. 
+ 

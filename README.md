@@ -3,12 +3,13 @@
 Follow the below instructions to understand and implement the code.
 
 * To understand the dynamics and the physics behind the Transmon qubit and resonator coupled system read **superconducting_qubit.md** file.
-* To Implement the Jaynes-Cumming model and under stand the dynamics use the file named **Jaynes_cummings_model.ipynb**. Here you will see how the coupled resonator and Transmon qubit give arise the vacuum Rabi oscillation. also what happens if the frequency of resonator $\omega_c$ and transmon qubit $\omega_a$ is not same. which means they are detuned, in such cases what changes with the oscillation. Solving Jaynes cummig model using qutip modul has been done. so you can compare both the implementation.
-* The most tricky part which hasn't been implemented yet is Quantum Monte-Carlo wave function method(QMCWF) to solve for the system-reservoir problem. It has been discussed in **superconducting_qubit.md**.
+
+* To Implement the Jaynes-Cumming model and under stand the dynamics use the file named **Jaynes_cummings_model.ipynb**. Here you will see how the coupled resonator and Transmon qubit give arise the vacuum Rabi oscillation. also what happens if the frequency of resonator   $\omega_c$ and transmon qubit $\omega_a$ is not same. which means they are detuned, in such cases what changes with the oscillation. Solving Jaynes cummig model using qutip modul has been done. so you can compare both the implementation.
+* Last part is implementing the quantum monte carlo wave function method **(QMCWF)**. I also tried to compare the code I have implemented with the qutip module. 
 
 ### YouTube video to explain this project : 
 
-https://www.youtube.com/watch?v=eE1u1Pll4Ag&ab_channel=akashpatel
+https://youtu.be/Ic6cWmk-oI0
 
 ### Referances
 
@@ -21,3 +22,7 @@ https://www.youtube.com/watch?v=eE1u1Pll4Ag&ab_channel=akashpatel
 [4]. Meystre, P., Sargent III, M., 1999, *Elements of Quantum Optics*(springer edition)
 
 [5]. Mølmer, K., Castin, Y. and Dalibard, J., J. Opt. Soc. Am B, 10, 524 (1993).
+
+[6]. Gleyzes, S., et al., Nature 446, 297 (2007)
+
+[7]. Deutsch, I., lecture on quantum trajectories, retrieved from \url{http://info.phys.unm.edu/~ideutsch/Classes/Phys566F10/Lectures/Lecture22.pdf}
